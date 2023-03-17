@@ -10,7 +10,7 @@ export const Contact = styled.li`
 
 export const ContactInfo = styled.p`
     display: inline-block;
-    width: 300px;
+    width: 500px;
     height: 100%;
     margin: 0;
 `
